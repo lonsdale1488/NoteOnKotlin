@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LessonKotlin</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="sort">SORT</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="enerDeals">Ведіть завдання</string>
+    <string name="enterType">Ведіть тип</string>
+    <string name="enterDate">Ведіть дату</string>
+    <string name="start">Старт сервіс</string>
+    <string name="stop">Стоп сервіс</string>
+    <string name="mon">пон</string>
+    <string name="tue">вів</string>
+    <string name="wed">сер</string>
+    <string name="thu">чтв</string>
+    <string name="fri">пт</string>
+    <string name="sut">суб</string>
+    <string name="sun">нед</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
